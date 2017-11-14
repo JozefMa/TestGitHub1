@@ -15,6 +15,7 @@ namespace TestGitHub1
 
 
             Console.WriteLine("Commit to master");
+            Console.WriteLine("Another commit to master");
 
             userInput = Console.ReadLine(); // Useful comment
         }
