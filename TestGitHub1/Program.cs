@@ -12,6 +12,11 @@ namespace TestGitHub1
         {
             Console.WriteLine("Hello world.");       
             string userInput = Console.ReadLine(); // Useful comment
+
+
+            Console.WriteLine("Commit to master");
+
+            userInput = Console.ReadLine(); // Useful comment
         }
     }
 }
